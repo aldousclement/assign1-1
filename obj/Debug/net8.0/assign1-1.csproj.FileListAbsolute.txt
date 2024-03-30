@@ -1,0 +1,14 @@
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\bin\Debug\net8.0\assign1-1.exe
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\bin\Debug\net8.0\assign1-1.deps.json
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\bin\Debug\net8.0\assign1-1.runtimeconfig.json
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\bin\Debug\net8.0\assign1-1.dll
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\bin\Debug\net8.0\assign1-1.pdb
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.AssemblyInfoInputs.cache
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.AssemblyInfo.cs
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.csproj.CoreCompileInputs.cache
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.dll
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\refint\assign1-1.dll
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.pdb
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\assign1-1.genruntimeconfig.cache
+C:\Users\I5 PC\source\repos\ADMIN\assign1-1\assign1-1\obj\Debug\net8.0\ref\assign1-1.dll
